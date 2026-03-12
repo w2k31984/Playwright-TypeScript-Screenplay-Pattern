@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2326","Login exitoso en ParaBank","","Wed Feb 25 18:22:54 CST 2026","passed","Wed Feb 25 18:22:57 CST 2026","","ui-login.spec.ts","",""
+"","1957","Registro exitoso en ParaBank","","Wed Feb 25 18:22:54 CST 2026","passed","Wed Feb 25 18:22:56 CST 2026","","ui-register.spec.ts","",""
+"","665","Login exitoso vía API ParaBank","","Wed Feb 25 18:22:54 CST 2026","passed","Wed Feb 25 18:22:55 CST 2026","","api-login.spec.ts","",""
+"","1495","Página Services de ParaBank muestra lista de servicios","","Wed Feb 25 18:22:54 CST 2026","passed","Wed Feb 25 18:22:56 CST 2026","","ui-services.spec.ts","",""
+"","1696","Página About de ParaBank muestra información correcta","","Wed Feb 25 18:22:54 CST 2026","passed","Wed Feb 25 18:22:56 CST 2026","","ui-about.spec.ts","",""
